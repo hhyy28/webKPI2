@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webKPI2/static/css/main.fc855e28.css",
+    "main.js": "/webKPI2/static/js/main.c05e4670.js",
+    "static/js/453.b445f648.chunk.js": "/webKPI2/static/js/453.b445f648.chunk.js",
+    "index.html": "/webKPI2/index.html",
+    "main.fc855e28.css.map": "/webKPI2/static/css/main.fc855e28.css.map",
+    "main.c05e4670.js.map": "/webKPI2/static/js/main.c05e4670.js.map",
+    "453.b445f648.chunk.js.map": "/webKPI2/static/js/453.b445f648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc855e28.css",
+    "static/js/main.c05e4670.js"
+  ]
+}
